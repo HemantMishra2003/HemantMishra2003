@@ -10,7 +10,10 @@ Vast concepts...
 So  here  is a list of  what i have learned till yet. and what i have applied till yet ...here i am also mentioned ...what  I am  learning now...
  
 # Machine Learning concepts
- which I have studied so far 
+ which I have studied so far .
+ check my "ml important concepts"
+ repo.
+ 
 <!--
 **HemantMishra2003/HemantMishra2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
