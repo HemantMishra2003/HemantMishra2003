@@ -1,4 +1,14 @@
 # Hi there 👋
+As u know my name is Hemant Mishra.
+a Madan Mohan Malaviya University of technology computer science student...
+
+I have always been a keen interest over machine learning , Deep learning, natural language processing , AI .Now this what i am doing...
+
+And Never for a second i got demotivated by learning all these 
+vast concepts...
+
+So  here there is a list of  what i have learned till yet and what i have applied till yet ...here i am also mentioned ...what i am  learning now...
+ 
 
 <!--
 **HemantMishra2003/HemantMishra2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
