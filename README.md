@@ -1,25 +1,7 @@
 # Hi there 👋
 
-I am Hemant Mishra, a Computer Science student at Madan Mohan Malaviya University of Technology. I have a strong passion for Machine Learning, Deep Learning, Natural Language Processing, and Artificial Intelligence, and I am continuously working to enhance my skills in these areas.
+As u know my name is Hemant Mishra, a Computer Science student at Madan Mohan Malaviya University of Technology. I have always been strong passion for Machine Learning, Deep Learning, Natural Language Processing, and Artificial Intelligence, and now I am continuously working to enhance my skills in these areas.
 
-I have never been demotivated while exploring these vast concepts and enjoy learning and applying them in real-world projects.
+I never demotivates while exploring all these vast concepts and enjoy learning and applying them in real-world projects.
 
-# Here is a summary of my learning journey:
-
-Concepts Learned & Applied: Machine Learning fundamentals, advanced algorithms, and practical applications.
-
-Current Focus: Deep Learning, NLP, and AI-driven projects.
-<!--
-**HemantMishra2003/HemantMishra2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...  
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# plss check my repositories..
