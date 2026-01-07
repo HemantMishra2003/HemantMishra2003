@@ -4,9 +4,9 @@ As u know my name is Hemant Mishra, a Computer Science student at Madan Mohan Ma
 
 I never demotivates while exploring all these vast concepts and enjoy learning and applying them in real-world projects.
 
-#### My Deployed Projects Linnks  :
-##### 1 : mri Xception Deployed Link       :   https://mri-xception-8cqqjkblxc5saqretu2cqx.streamlit.app/
-##### 2 : Binary Densenet 121 deplyed Link :   https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
-##### 3 : Bank Churn Prediction Link       :   https://churn-prediction-roc-096-fvipcg2r5dvwsfea9tuqqz.streamlit.app/
+#### My Deployed Projects  Links : 
+##### 1. MRI Xception Deployed Link          : https://mri-xception-8cqqjkblxc5saqretu2cqx.streamlit.app/
+##### 2. Binary Densenet 121 Deployed Link   : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+##### 3. Bank Churn Prediction Deployed Link : https://churn-prediction-roc-096-fvipcg2r5dvwsfea9tuqqz.streamlit.app/
 
 #### Plss Check My All Repositories❤️.
