@@ -1,6 +1,6 @@
 # Hi 👋,  I'm Pattern Detector and Kaggle expert 
 
-As u know my name is Hemant Mishra, a Computer Science student at Madan Mohan Malaviya University of Technology. I have always been strong passion for **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Artificial Intelligence**, and now I am heading towards **GenAi** , **AgenticAi** , **Rag** and **cloud computing**.
+As u know my name is Hemant Mishra, a Computer Science student at Madan Mohan Malaviya University of Technology. I have always been strong passion for **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and **Artificial Intelligence**, and now I am heading towards **GenAi** , **LangChain** , **AgenticAi** , **Rag** and **Cloud Computing**.
 
 I never demotivates while exploring all these vast concepts and enjoy learning and applying them in real-world projects.
 
